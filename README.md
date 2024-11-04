@@ -46,7 +46,6 @@
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alanandrewvarghese&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alanandrewvarghese&theme=radical)
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Intermediate-blue?logo=django&logoColor=white)
