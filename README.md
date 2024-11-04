@@ -11,22 +11,26 @@
 
 ### 📂 Projects
 
-#### i-Cafe 🍽️ 
+#### SmartCanteen 🍽️ 
 > A smart canteen management system built with Django  
-- 📜 Features a customer-friendly UI with functionalities like order placement, feedback, and personalized recommendations based on order history.
+- 📜 Offers a user-friendly interface with features such as order placement, feedback, and personalized recommendations.
 - 💼 Designed with separate staff and customer modules for efficient canteen management.
 - 🔍 Integrated Apriori algorithm for personalized food recommendations.
 
+[GitHub Repository: SmartCanteen](https://github.com/alanandrewvarghese/smartcanteen)
+  
+---
+
 ### 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/alanandrewvarghese/)
+- LinkedIn: [Alan Andrew Varghese](https://www.linkedin.com/in/alanandrewvarghese/)
 - Email: [alanandrewvarghese@gmail.com](mailto:alanandrewvarghese@gmail.com)
 
 ---
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** JavaScript, Python
+- **Languages:** Python, JavaScript
 - **Frontend:** HTML, CSS, Bootstrap, Responsive Design
 - **Backend:** Django
 - **Database:** MySQL
@@ -41,7 +45,14 @@
 
 ### 📊 GitHub Stats
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alan&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alanandrewvarghese&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alanandrewvarghese&theme=radical)
+
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Intermediate-blue?logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow?logo=javascript&logoColor=white)
+
+---
 
 Thanks for visiting my profile! 😊 Let's build something amazing together!
 
