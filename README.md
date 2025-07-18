@@ -38,11 +38,6 @@
 
 ---
 
-### 🎯 Currently Working On
-
-- Building a **smart canteen project** in Django, with machine learning for personalized recommendations.
----
-
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alanandrewvarghese&show_icons=true&theme=radical)
