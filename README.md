@@ -5,7 +5,6 @@
 - 🎓 MCA Graduate from CUSAT
 - 💡 Passionate about building full-stack applications, with a focus on **Django**, **React**.
 - 🌱 I’m constantly learning and improving my skills in web development.
-- 📜 Recently, I earned a certification in **Responsive Web Design** from freeCodeCamp.
 
 ---
 
